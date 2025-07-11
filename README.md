@@ -1,12 +1,12 @@
 # Get Micrososft Form results
-Get quiz result from Microsoft result and save values in SharePoint file
+Get quiz result from Microsoft Forms and save values in SharePoint file
 
 # Description 
 I this post I will show you how to get Evaluations Result from a Quiz(Microsoft Forms).
 
 # Microsoft Forms
 
-First we need a Microsoft Forms Quizz, we can use this link [Microsoft Forms Quiz](https://support.microsoft.com/en-us/office/create-a-quiz-with-microsoft-forms-a082a018-24a1-48c1-b176-4b3616cdc83d) to learn how to create a new one. 
+First we need a Microsoft Forms Quiz, we can use this link [Microsoft Forms](https://support.microsoft.com/en-us/office/create-a-quiz-with-microsoft-forms-a082a018-24a1-48c1-b176-4b3616cdc83d) to learn how to create a new one. 
 The important point of a Quiz Form is the result, is a value from 0 to 100, like an Assessment or test.  
 After that we need to know some key point.
 * Form URL: https://forms.office.com  , is the base URL of this service
